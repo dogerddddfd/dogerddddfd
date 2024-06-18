@@ -1,4 +1,4 @@
-### Hi there 👋
+### 还没想好怎么写自我介绍，就先祝大家天天快乐吧 👋
 
 <!--
 **dogerddddfd/dogerddddfd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
