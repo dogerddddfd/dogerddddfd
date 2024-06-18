@@ -1,7 +1,7 @@
 ### 还没想好怎么写自我介绍，就先祝大家天天快乐吧 👋
 
 
-多喝水
+大家记得多喝水
 <!--
 **dogerddddfd/dogerddddfd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
