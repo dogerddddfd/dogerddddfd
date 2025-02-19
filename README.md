@@ -3,7 +3,12 @@
 
 大家记得多喝水
 
-![](5e7c3c6573a15.gif)
+<div align=center>
+  <img src="5e7c3c6573a15.gif">
+</div>
+
+</div>
+
 <!--
 **dogerddddfd/dogerddddfd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
